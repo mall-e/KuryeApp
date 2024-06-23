@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693247198822",
+    "project_id": "yazicikurye",
+    "storage_bucket": "yazicikurye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693247198822:android:a115fce66bbde8238ccfa7",
+        "android_client_info": {
+          "package_name": "com.example.yazici_kurye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693247198822-t4aqu81m3e0s3snpectb3ql9k2gi24vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2TeiKfwmkiPd4mG80QYgxljTPJu7feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693247198822-t4aqu81m3e0s3snpectb3ql9k2gi24vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
