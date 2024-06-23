@@ -42,42 +42,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: '**************',
-    appId: '1:693247198822:web:f9f90aaab9dcfcc28ccfa7',
-    messagingSenderId: '693247198822',
-    projectId: 'yazicikurye',
-    authDomain: 'yazicikurye.firebaseapp.com',
-    storageBucket: 'yazicikurye.appspot.com',
-    measurementId: 'G-C2J1G66HLG',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '**************',
-    appId: '1:693247198822:android:a115fce66bbde8238ccfa7',
-    messagingSenderId: '693247198822',
-    projectId: 'yazicikurye',
-    storageBucket: 'yazicikurye.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: '*****************',
-    appId: '1:693247198822:ios:985e13f1c311733c8ccfa7',
-    messagingSenderId: '693247198822',
-    projectId: 'yazicikurye',
-    storageBucket: 'yazicikurye.appspot.com',
-    iosClientId: '693247198822-spuo9tvh3t241te3e90sa1i45q6762tq.apps.googleusercontent.com',
-    iosBundleId: 'com.example.yaziciKurye',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: '********************',
-    appId: '1:693247198822:ios:985e13f1c311733c8ccfa7',
-    messagingSenderId: '693247198822',
-    projectId: 'yazicikurye',
-    storageBucket: 'yazicikurye.appspot.com',
-    iosClientId: '693247198822-spuo9tvh3t241te3e90sa1i45q6762tq.apps.googleusercontent.com',
-    iosBundleId: 'com.example.yaziciKurye',
-  );
 }
